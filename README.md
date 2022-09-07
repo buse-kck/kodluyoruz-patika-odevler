@@ -1,0 +1,2 @@
+# kodluyoruz-patika-odevler
+ ödevler
