@@ -1,5 +1,5 @@
 # kodluyoruz-patika-odevler
- Ödev1
+ Ödev2
  
- ![Screenshot](images/ödev1.png)
+ ![Screenshot](images/ödev2.png)
  [Patika.dev](https://www.patika.dev/)
